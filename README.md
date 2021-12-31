@@ -55,7 +55,7 @@ Run the [P2_continuous_control](./P2_continuous_control.ipynb) notebook.
 
 The notebook starts the environment, trains a model and saves the checkpoints and final models.
 
-See the [Report.md](./Report.md) for more imformation
+See the [Report.md](./Report.md) for more information
 
 <!-- ### (Optional) Challenge: Crawler Environment
 
