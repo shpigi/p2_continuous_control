@@ -1,7 +1,5 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
-[image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 
 
 # Project 2: Continuous Control
@@ -12,7 +10,9 @@ https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous
 
 In this project I worked with the (by-now-deprecated) [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
-![Trained Agent][image1]
+!["Trained Agent"](./trained_model_2021-12-31_10_36_16_am.gif)
+
+(run example with the model I trained in 109 episodes)
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of the agent is to maintain its position at the target location for as many time steps as possible. The target rotates around the arm and a randomized speed and direction of rotation.
 
