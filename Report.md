@@ -99,7 +99,7 @@ Number of steps (for all 20 agents) beween model updates: `15`
 Number of consecutive (Adam) optimizer updates within a single model update step: `20`
 
 ## Results:
-With the above settings the model passed the success requirement (average over 100 episodes and 20 agents above 30) in the 106th episode. Just 6 episodes after it had enough in its averaging window to start chacking for this stopping criterion !
+With the above settings the model passed the success requirement (average over 100 episodes and 20 agents above 30) in the **109th episode**. Just 9 episodes after it had enough in its averaging window to start chacking for this stopping criterion !
 
 !["results"](./run_results.png)
 
