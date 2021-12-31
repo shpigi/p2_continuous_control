@@ -103,6 +103,8 @@ With the above settings the model passed the success requirement (average over 1
 
 !["results"](./run_results.png)
 
+You can load and run the trained model with the notebook [run_trained_model.ipynb](./run_trained_model.ipynb)
+
 
 ## Ideas for Future Work
 * Find ways of reducing the number of attepts at finding parameters that work. In real life situations, each episode, including those from previous training attepts should count towards the number of episodes till success.
